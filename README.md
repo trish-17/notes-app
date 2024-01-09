@@ -20,15 +20,16 @@ git clone https://github.com/trish-17/notes-app.git
 1. Adding the title and content of the note
 <br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/RQWYd7t/Input.png" alt="Input" border="0" width = "200"></a>
+<br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/7krqdQg/Notes-content.png" alt="Notes-content" border="0" width = "200"></a>
 
 2. Added Note
 <br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/d68vXfH/Added-note.png" alt="Added-note" border="0" witdh = "200"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/d68vXfH/Added-note.png" alt="Added-note" border="0" width = "200"></a>
 
 3. Note can be updated upon clicking on it
 <br>
-<a href="https://ibb.co/0nJnwMv"><img src="https://i.ibb.co/dfKfh2x/Update.png" alt="Update" border="0" width = "200"></a>
+<a href="https://ibb.co/0nJnwMv"><img src="https://i.ibb.co/dfKfh2x/Update.png" alt="Update" border="0" width = "300"></a>
 <br>
 Save the changes
 
