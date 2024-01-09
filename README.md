@@ -18,5 +18,4 @@ git clone https://github.com/trish-17/notes-app.git
 
 ## Features
 1. Adding the title and content of the note
-![Input screenshot](https://ibb.co/tY5QF3n.png)
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/RQWYd7t/Input.png" alt="Input" border="0"></a>
