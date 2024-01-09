@@ -21,16 +21,19 @@ git clone https://github.com/trish-17/notes-app.git
 <br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/RQWYd7t/Input.png" alt="Input" border="0" width = "200"></a>
 <br>
+<br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/7krqdQg/Notes-content.png" alt="Notes-content" border="0" width = "200"></a>
 
+<br>
 2. Added Note
 <br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/d68vXfH/Added-note.png" alt="Added-note" border="0" width = "200"></a>
 
+<br>
 3. Note can be updated upon clicking on it
 <br>
-<a href="https://ibb.co/0nJnwMv"><img src="https://i.ibb.co/dfKfh2x/Update.png" alt="Update" border="0" width = "300"></a>
+<a href="https://ibb.co/0nJnwMv"><img src="https://i.ibb.co/dfKfh2x/Update.png" alt="Update" border="0" width = "350"></a>
 <br>
 Save the changes
-
+<br>
 4. The note can be deleted upon clicking on the top right 'x'.
